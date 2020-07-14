@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Ng1Ng2Upgrade"
+    }
+  },
+  "defaultProject": "Ng1Ng2Upgrade",
+  "cli": {
+    "analytics": "46c64947-8e97-4c25-b7e0-88df0d49b2b3"
+  }
 }
